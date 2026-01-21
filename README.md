@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi! I'm TonyJr 👋
 
-<!--
-**TonyJr03/TonyJr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer building **TonyJr Tech**, where I work on:
+- Web development
+- Project deployments
+- Tech automations (Make.com / n8n)
+- General software experiments
 
-Here are some ideas to get you started:
+## 🧩 Currently Learning
+- JavaScript
+- PocketBase • Docker
+- Git & Deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals for 2026
+- Build my personal portfolio
+- Publish tech projects consistently
+- Improve automation workflows
+
+## 📚 Featured Projects
+- (Soon)
+
+Always learning, always building.
